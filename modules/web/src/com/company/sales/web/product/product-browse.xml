@@ -32,7 +32,8 @@
             </actions>
             <columns>
                 <column id="name"/>
-                <column id="price"/>
+                <column id="price"
+                        align="RIGHT"/>
             </columns>
             <rows datasource="productsDs"/>
             <rowsCount/>
