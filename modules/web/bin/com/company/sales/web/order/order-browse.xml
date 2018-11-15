@@ -32,7 +32,8 @@
             </actions>
             <columns>
                 <column id="date"/>
-                <column id="amount"/>
+                <column id="amount"
+                        align="RIGHT"/>
                 <column id="customer"/>
             </columns>
             <rows datasource="ordersDs"/>
