@@ -1,4 +1,4 @@
-# Sales
+# Sales with changes
 
 This is a "Hello World" application which is designed to show the core capabilities and features of both the CUBA Platform and Studio.
 
